@@ -380,12 +380,12 @@ let people: [SelfIntroduction] = [
         job: "구글 - iOS 개발자"
     ),
     SelfIntroduction(
-        name: "계주성",
+        name: "계주성성",
         trainingPurpose: "iOS 강사가 되기 위한 훈련 참여",
         hobby: "글 쓰기, 독서",
         mbti: "ENTP",
         strength: "피스메이커",
-        sns: "https://jusung.github.io",
+        sns: "https://jusung.github.ioㅇㅇㅇㅇㅇ",
         etc: "화이팅!",
         job: "카카오 - iOS 개발자"
     ),
