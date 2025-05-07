@@ -14,7 +14,7 @@ struct DetailView: View {
         ScrollView {
             VStack(alignment: .leading, spacing: 12) {
                 Group {
-                    Text("1. 훈련과정 참여 목적: \(person.trainingPurpose)")
+                    Text("1. 훈련과정 참여 목적!!! : \(person.trainingPurpose)")
                     Text("2. 취미: \(person.hobby)")
                     Text("3. MBTI: \(person.mbti)")
                     Text("4. 본인의 강점: \(person.strength)")
