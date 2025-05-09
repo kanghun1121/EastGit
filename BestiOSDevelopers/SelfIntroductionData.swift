@@ -84,7 +84,7 @@ let people: [SelfIntroduction] = [
         trainingPurpose: "많은 분들과 소통하면서 성장하고 싶습니다! (수정)",
         hobby: "운동 (수정)",
         mbti: "ISTP",
-        strength: "끈기와 실행력",
+        strength: "끈기와 실행력 (리뷰 부탁드립니다!!)",
         sns: nil,
         etc: "열심히 해보겠습니다 :)",
         job: "네이버 - iOS 개발자"
